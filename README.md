@@ -92,28 +92,6 @@ Open the provided `.ipynb` files to visualize data processing, EDA, or ML pipeli
 
 ---
 
-## 🖼️ Visual Representations
-
-Add the following visual assets to showcase your project:
-
-1. **ML Diagram** – represents the data pipeline .
-
-   ```
-   ![Architecture Diagram](https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%202%20-%20Copy.png)
-   ```
-
-2. **Frontend UI Preview** – highlight the interactive dashboard or web interface.
-
-   ```
-   ![Frontend Preview](https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%201%20-%20Copy.png)
-   ```
-
-3. **Model Performance Visualization** – display ML results, graphs, or metrics.
-
-   ```
-   (https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%203.png)
-   ```
-
 
 ---
 
