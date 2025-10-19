@@ -1,0 +1,87 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor config
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Output/build folders (for backend or shared code)
+dist/
+build/
+out/
+
+# Node dependencies (if any in backend or root)
+node_modules/
+.next/
+
+# Ignore Python/jupyter outputs in notebooks/
+notebooks/__pycache__/
+notebooks/*.pyc
+notebooks/*.pyo
+notebooks/*.pyd
+notebooks/.ipynb_checkpoints/
+notebooks/.venv/
+notebooks/env/
+notebooks/venv/
+
+# Ignore deployment output folders
+.vercel/
+.netlify/
+
+# Lock files (optional, if you're not committing them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
