@@ -1,13 +1,10 @@
-# 🚀 Ikarus — Intelligent Data Pipeline Project
+# 🚀 Ikarus3d Assignment
 
 > **Tanveer Singh Bedi | 102216133 | Ikarus Project Repository**
 
 ---
 
 ## 🧠 Overview
-
-**Ikarus** is a comprehensive project repository designed to integrate data-driven backend systems, interactive frontend applications, and exploratory analysis notebooks.
-It serves as a modular framework that supports scalable machine learning, data preprocessing, and real-time visualization workflows — ideal for academic, research, or experimental development.
 
 ---
 
@@ -102,22 +99,21 @@ Add the following visual assets to showcase your project:
 1. **ML Diagram** – represents the data pipeline .
 
    ```
-   ![Architecture Diagram](assets/architecture_diagram.png)
+   ![Architecture Diagram](https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%202%20-%20Copy.png)
    ```
 
 2. **Frontend UI Preview** – highlight the interactive dashboard or web interface.
 
    ```
-   ![Frontend Preview](assets/frontend_preview.png)
+   ![Frontend Preview](https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%201%20-%20Copy.png)
    ```
 
 3. **Model Performance Visualization** – display ML results, graphs, or metrics.
 
    ```
-   Img 1 - Copy.png
+   (https://github.com/tanveerbedi/TanveerSinghBedi_102216133_Ikarus/blob/main/Img%203.png)
    ```
 
-*(Ensure to place images inside an `/assets` folder in the repository.)*
 
 ---
 
